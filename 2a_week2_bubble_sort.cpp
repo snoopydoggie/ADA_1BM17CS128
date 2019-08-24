@@ -18,7 +18,7 @@ int main(){
 		for(int j=i+1;j<n;j++){
 			if(arr[j]<least){
 				int temp=arr[j];
-				arr[j]=least;
+				arr[j]=leas2a_week2_selection_sortt;
 				least=temp;
 			}
 		}
